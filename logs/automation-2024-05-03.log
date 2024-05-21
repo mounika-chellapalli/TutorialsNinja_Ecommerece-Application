@@ -1,0 +1,46 @@
+23:11:03.724 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+23:11:03.842 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+23:11:03.842 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+23:11:06.208 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+23:11:06.208 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+23:11:06.265 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+23:11:06.265 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+23:18:15.349 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+23:18:15.568 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+23:18:15.641 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+23:18:16.504 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+23:18:16.579 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+23:18:16.579 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+23:18:18.753 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+23:18:18.753 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+23:18:18.816 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+23:18:18.816 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+23:22:40.596 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+23:22:40.703 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+23:22:40.766 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+23:22:41.653 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+23:22:41.718 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+23:22:41.718 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+23:22:43.493 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+23:22:43.493 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+23:22:43.523 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+23:22:43.523 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+23:22:51.195 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+23:22:51.268 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+23:22:51.360 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+23:22:52.108 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+23:22:52.175 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+23:22:52.175 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+23:22:55.912 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+23:22:55.912 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+23:22:55.954 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+23:22:55.954 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+23:24:45.954 [TestNG-tests-2] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+23:24:46.130 [TestNG-tests-2] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+23:24:46.151 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+23:24:46.260 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+23:24:46.288 [TestNG-tests-2] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+23:24:46.378 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+23:24:47.256 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+23:24:47.326 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+23:24:47.326 [TestNG-tests-1] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details

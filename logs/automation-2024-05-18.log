@@ -1,0 +1,54 @@
+20:59:40.882 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+20:59:40.899 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+20:59:42.970 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+20:59:42.971 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+20:59:43.032 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+20:59:43.034 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+20:59:52.286 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+20:59:52.352 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
+20:59:53.060 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
+21:00:03.257 [main] ERROR testCases.TC_002_LogInTest - Test Failed....
+21:02:20.536 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+21:02:30.607 [main] ERROR testCases.Tc_001_HomePageAndAccRgistrationTest - Test Failed...
+21:02:32.542 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+21:02:42.037 [main] ERROR testCases.TC_002_LogInTest - Test Failed....
+21:03:20.756 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+21:03:20.853 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+21:03:20.931 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+21:03:21.646 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+21:03:21.701 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+21:03:21.701 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+21:03:23.750 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+21:03:23.750 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+21:03:23.811 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+21:03:23.811 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+21:03:28.914 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+21:03:29.028 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
+21:03:29.473 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
+21:03:29.627 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
+21:03:29.725 [main] INFO  testCases.TC_002_LogInTest - Entering Password
+21:03:31.267 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
+21:03:31.267 [main] INFO  testCases.TC_002_LogInTest - verifying msg
+21:03:31.315 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
+21:03:32.139 [main] INFO  testCases.TC_002_LogInTest - clicked on LogOut link
+21:03:32.139 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
+21:08:09.089 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+21:08:09.184 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+21:08:09.264 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+21:08:10.003 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+21:08:10.079 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+21:08:10.079 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+21:08:11.998 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+21:08:11.998 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+21:08:12.045 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+21:08:12.045 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+21:08:17.606 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+21:08:17.685 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
+21:08:18.131 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
+21:08:18.265 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
+21:08:18.348 [main] INFO  testCases.TC_002_LogInTest - Entering Password
+21:08:19.287 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
+21:08:19.287 [main] INFO  testCases.TC_002_LogInTest - verifying msg
+21:08:19.352 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
+21:08:20.072 [main] INFO  testCases.TC_002_LogInTest - clicked on LogOut link
+21:08:20.072 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
