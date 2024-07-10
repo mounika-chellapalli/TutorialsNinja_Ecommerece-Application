@@ -1,0 +1,55 @@
+18:56:54.476 [main] INFO  testCases.TC_007_ShoppingCartTest - Test Passed
+18:56:54.495 [main] INFO  testCases.TC_007_ShoppingCartTest - *** Ended TC_006_EmptyShoppinCartTest ***
+19:09:46.248 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
+19:09:46.388 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+19:09:46.462 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+19:09:47.132 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+19:09:47.184 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+19:09:47.184 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+19:09:48.663 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+19:09:48.663 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+19:09:48.709 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+19:09:48.709 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+19:09:52.880 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+19:09:53.018 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
+19:09:53.440 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
+19:09:53.631 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
+19:09:53.727 [main] INFO  testCases.TC_002_LogInTest - Entering Password
+19:09:54.607 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
+19:09:54.612 [main] INFO  testCases.TC_002_LogInTest - verifying msg
+19:09:54.648 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
+19:09:55.399 [main] INFO  testCases.TC_002_LogInTest - clicked on Logout link
+19:09:55.399 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
+19:10:03.149 [main] INFO  testCases.TC_004_ForgetPassword - *** Starting TC_004_ForgetPassword ***
+19:10:03.266 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on MyAccount Link
+19:10:03.658 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on Login Link
+19:10:04.073 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on ForgetPassword Link
+19:10:04.244 [main] INFO  testCases.TC_004_ForgetPassword - Entered Email
+19:10:05.180 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on Continue button
+19:10:05.180 [main] INFO  testCases.TC_004_ForgetPassword - Validating Expected Message
+19:10:05.229 [main] INFO  testCases.TC_004_ForgetPassword - Test Passed
+19:10:05.229 [main] INFO  testCases.TC_004_ForgetPassword - *** Ended TC_004_ForgetPassword ***
+19:10:09.126 [main] INFO  testCases.TC_005_SearchFunctionality - *** Starting TC_004_ForgetPassword ***
+19:10:09.321 [main] INFO  testCases.TC_005_SearchFunctionality - Entering product name
+19:10:09.846 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on searchbutton
+19:10:09.924 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on checkBox
+19:10:10.499 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on searchbutton2
+19:10:10.553 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on Add to Cart button
+19:10:10.553 [main] INFO  testCases.TC_005_SearchFunctionality - *** Ended TC_005_SearchFunctionality ***
+19:10:14.485 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - *** Starting TC_006_EmptyShoppinCartTest ***
+19:10:14.922 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Clicked on ShoppingCart Link
+19:10:14.922 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Validating Expected Message
+19:10:14.963 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Test Passed
+19:10:14.963 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - *** Ended TC_006_EmptyShoppinCartTest ***
+19:10:19.255 [main] INFO  testCases.TC_007_ShoppingCartTest - *** Starting TC_007_ShoppingCartTest ***
+19:10:19.427 [main] INFO  testCases.TC_007_ShoppingCartTest - Entering product name
+19:10:19.973 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on searchbutton
+19:10:20.051 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on checkBox
+19:10:20.607 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on searchbutton2
+19:10:20.728 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on Add to Cart button
+19:10:20.728 [main] INFO  testCases.TC_007_ShoppingCartTest - Validating Expected Message
+19:10:21.750 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on ShoppingCart Link
+19:10:21.750 [main] INFO  testCases.TC_007_ShoppingCartTest - Validating Expected productresult
+19:10:21.787 [main] INFO  testCases.TC_007_ShoppingCartTest - Test Passed
+19:10:21.787 [main] INFO  testCases.TC_007_ShoppingCartTest - *** Ended TC_006_EmptyShoppinCartTest ***
+19:16:09.473 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***

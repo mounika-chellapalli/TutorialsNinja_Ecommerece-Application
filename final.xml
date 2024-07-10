@@ -23,7 +23,13 @@
     <classes>
     	<class name="testCases.Tc_001_HomePageAndAccRgistrationTest"/> 
         <class name="testCases.TC_002_LogInTest"/> 
-       <!-- <class name="testCases.TC_003_LoginDDT"/> -->
+       <!--class name="testCases.TC_003_LoginDDT"/> -->
+       <class name="testCases.TC_004_ForgetPassword"/>
+       <class name="testCases.TC_005_SearchFunctionality"/>
+       <class name="testCases.TC_006_EmptyShoppinCartTest"/>
+       <class name="testCases.TC_007_ShoppingCartTest"/>
+       
+       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

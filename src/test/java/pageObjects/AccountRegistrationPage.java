@@ -92,8 +92,6 @@ public class AccountRegistrationPage extends BasePage{
 		 String result = verify_login.getText();
 		 return result;
 
-		//boolean verifyStatus =		
-		//return verifyStatus;
 	}
 	
 	

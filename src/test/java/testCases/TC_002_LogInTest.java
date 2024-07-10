@@ -58,7 +58,7 @@ public class TC_002_LogInTest extends BaseClass{
 			}
 		
 		mypage.ClickLogOut();
-		logger.info("clicked on LogOut link");
+		logger.info("clicked on Logout link");
 		
 		}
 		catch(Exception e)

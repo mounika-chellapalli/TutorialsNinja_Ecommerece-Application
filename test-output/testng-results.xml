@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-17T21:08:02 IST" name="Suite" finished-at="2024-05-17T21:08:20 IST" duration-ms="17839">
+  <suite started-at="2024-07-10T19:16:03 IST" name="Suite" finished-at="2024-07-10T19:16:40 IST" duration-ms="37047">
     <groups>
       <group name="regression">
-        <method signature="Tc_001_HomePageAndAccRgistrationTest.verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@17f62e33]" name="verifyingHomePage" class="testCases.Tc_001_HomePageAndAccRgistrationTest"/>
+        <method signature="TC_004_ForgetPassword.verify_forgetpassword_functionality()[pri:0, instance:testCases.TC_004_ForgetPassword@7f485fda]" name="verify_forgetpassword_functionality" class="testCases.TC_004_ForgetPassword"/>
+        <method signature="TC_005_SearchFunctionality.verify_SearchFunctionality()[pri:0, instance:testCases.TC_005_SearchFunctionality@28261e8e]" name="verify_SearchFunctionality" class="testCases.TC_005_SearchFunctionality"/>
+        <method signature="TC_006_EmptyShoppinCartTest.verify_EmptyShoppingFunctionality()[pri:0, instance:testCases.TC_006_EmptyShoppinCartTest@d737b89]" name="verify_EmptyShoppingFunctionality" class="testCases.TC_006_EmptyShoppinCartTest"/>
+        <method signature="TC_007_ShoppingCartTest.verify_ShoppingFunctionality()[pri:0, instance:testCases.TC_007_ShoppingCartTest@8519cb4]" name="verify_ShoppingFunctionality" class="testCases.TC_007_ShoppingCartTest"/>
+        <method signature="Tc_001_HomePageAndAccRgistrationTest.verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@79e4c792]" name="verifyingHomePage" class="testCases.Tc_001_HomePageAndAccRgistrationTest"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC_002_LogInTest.LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@543295b0]" name="LogInTest" class="testCases.TC_002_LogInTest"/>
+        <method signature="TC_002_LogInTest.LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@4b29d1d2]" name="LogInTest" class="testCases.TC_002_LogInTest"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC_002_LogInTest.LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@543295b0]" name="LogInTest" class="testCases.TC_002_LogInTest"/>
-        <method signature="Tc_001_HomePageAndAccRgistrationTest.verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@17f62e33]" name="verifyingHomePage" class="testCases.Tc_001_HomePageAndAccRgistrationTest"/>
+        <method signature="TC_002_LogInTest.LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@4b29d1d2]" name="LogInTest" class="testCases.TC_002_LogInTest"/>
+        <method signature="TC_004_ForgetPassword.verify_forgetpassword_functionality()[pri:0, instance:testCases.TC_004_ForgetPassword@7f485fda]" name="verify_forgetpassword_functionality" class="testCases.TC_004_ForgetPassword"/>
+        <method signature="TC_005_SearchFunctionality.verify_SearchFunctionality()[pri:0, instance:testCases.TC_005_SearchFunctionality@28261e8e]" name="verify_SearchFunctionality" class="testCases.TC_005_SearchFunctionality"/>
+        <method signature="TC_006_EmptyShoppinCartTest.verify_EmptyShoppingFunctionality()[pri:0, instance:testCases.TC_006_EmptyShoppinCartTest@d737b89]" name="verify_EmptyShoppingFunctionality" class="testCases.TC_006_EmptyShoppinCartTest"/>
+        <method signature="TC_007_ShoppingCartTest.verify_ShoppingFunctionality()[pri:0, instance:testCases.TC_007_ShoppingCartTest@8519cb4]" name="verify_ShoppingFunctionality" class="testCases.TC_007_ShoppingCartTest"/>
+        <method signature="Tc_001_HomePageAndAccRgistrationTest.verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@79e4c792]" name="verifyingHomePage" class="testCases.Tc_001_HomePageAndAccRgistrationTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-05-17T21:08:02 IST" name="Test" finished-at="2024-05-17T21:08:20 IST" duration-ms="17839">
-      <class name="testCases.Tc_001_HomePageAndAccRgistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@17f62e33]" started-at="2024-05-17T21:08:02 IST" name="setup" finished-at="2024-05-17T21:08:09 IST" duration-ms="6293" status="PASS">
+    <test started-at="2024-07-10T19:16:03 IST" name="Test" finished-at="2024-07-10T19:16:40 IST" duration-ms="37047">
+      <class name="testCases.TC_007_ShoppingCartTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_007_ShoppingCartTest@8519cb4]" started-at="2024-07-10T19:16:35 IST" name="setup" finished-at="2024-07-10T19:16:38 IST" duration-ms="3518" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +41,69 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@17f62e33]" started-at="2024-05-17T21:08:09 IST" name="verifyingHomePage" finished-at="2024-05-17T21:08:12 IST" duration-ms="2970" status="PASS">
+        <test-method signature="verify_ShoppingFunctionality()[pri:0, instance:testCases.TC_007_ShoppingCartTest@8519cb4]" started-at="2024-07-10T19:16:38 IST" name="verify_ShoppingFunctionality" finished-at="2024-07-10T19:16:40 IST" duration-ms="2030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShoppingFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_007_ShoppingCartTest@8519cb4]" started-at="2024-07-10T19:16:40 IST" name="tearDown" finished-at="2024-07-10T19:16:40 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_007_ShoppingCartTest -->
+      <class name="testCases.TC_005_SearchFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_SearchFunctionality@28261e8e]" started-at="2024-07-10T19:16:25 IST" name="setup" finished-at="2024-07-10T19:16:29 IST" duration-ms="3571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_SearchFunctionality()[pri:0, instance:testCases.TC_005_SearchFunctionality@28261e8e]" started-at="2024-07-10T19:16:29 IST" name="verify_SearchFunctionality" finished-at="2024-07-10T19:16:30 IST" duration-ms="1519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SearchFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_SearchFunctionality@28261e8e]" started-at="2024-07-10T19:16:30 IST" name="tearDown" finished-at="2024-07-10T19:16:30 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_005_SearchFunctionality -->
+      <class name="testCases.Tc_001_HomePageAndAccRgistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@79e4c792]" started-at="2024-07-10T19:16:04 IST" name="setup" finished-at="2024-07-10T19:16:09 IST" duration-ms="5113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyingHomePage()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@79e4c792]" started-at="2024-07-10T19:16:09 IST" name="verifyingHomePage" finished-at="2024-07-10T19:16:11 IST" duration-ms="2427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyingHomePage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@17f62e33]" started-at="2024-05-17T21:08:12 IST" name="tearDown" finished-at="2024-05-17T21:08:12 IST" duration-ms="238" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Tc_001_HomePageAndAccRgistrationTest@79e4c792]" started-at="2024-07-10T19:16:11 IST" name="tearDown" finished-at="2024-07-10T19:16:12 IST" duration-ms="297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.Tc_001_HomePageAndAccRgistrationTest -->
-      <class name="testCases.TC_002_LogInTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LogInTest@543295b0]" started-at="2024-05-17T21:08:12 IST" name="setup" finished-at="2024-05-17T21:08:17 IST" duration-ms="5284" status="PASS">
+      <class name="testCases.TC_004_ForgetPassword">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004_ForgetPassword@7f485fda]" started-at="2024-07-10T19:16:19 IST" name="setup" finished-at="2024-07-10T19:16:23 IST" duration-ms="3558" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +119,63 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@543295b0]" started-at="2024-05-17T21:08:17 IST" name="LogInTest" finished-at="2024-05-17T21:08:20 IST" duration-ms="2469" status="PASS">
+        <test-method signature="verify_forgetpassword_functionality()[pri:0, instance:testCases.TC_004_ForgetPassword@7f485fda]" started-at="2024-07-10T19:16:23 IST" name="verify_forgetpassword_functionality" finished-at="2024-07-10T19:16:25 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_forgetpassword_functionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_ForgetPassword@7f485fda]" started-at="2024-07-10T19:16:25 IST" name="tearDown" finished-at="2024-07-10T19:16:25 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_004_ForgetPassword -->
+      <class name="testCases.TC_006_EmptyShoppinCartTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_006_EmptyShoppinCartTest@d737b89]" started-at="2024-07-10T19:16:30 IST" name="setup" finished-at="2024-07-10T19:16:34 IST" duration-ms="3331" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_EmptyShoppingFunctionality()[pri:0, instance:testCases.TC_006_EmptyShoppinCartTest@d737b89]" started-at="2024-07-10T19:16:34 IST" name="verify_EmptyShoppingFunctionality" finished-at="2024-07-10T19:16:34 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_EmptyShoppingFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_006_EmptyShoppinCartTest@d737b89]" started-at="2024-07-10T19:16:34 IST" name="tearDown" finished-at="2024-07-10T19:16:35 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_006_EmptyShoppinCartTest -->
+      <class name="testCases.TC_002_LogInTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LogInTest@4b29d1d2]" started-at="2024-07-10T19:16:12 IST" name="setup" finished-at="2024-07-10T19:16:16 IST" duration-ms="4768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LogInTest()[pri:0, instance:testCases.TC_002_LogInTest@4b29d1d2]" started-at="2024-07-10T19:16:16 IST" name="LogInTest" finished-at="2024-07-10T19:16:19 IST" duration-ms="2376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogInTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LogInTest@543295b0]" started-at="2024-05-17T21:08:20 IST" name="tearDown" finished-at="2024-05-17T21:08:20 IST" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LogInTest@4b29d1d2]" started-at="2024-07-10T19:16:19 IST" name="tearDown" finished-at="2024-07-10T19:16:19 IST" duration-ms="281" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

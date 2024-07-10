@@ -1,40 +1,51 @@
-10:38:53.995 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
-10:38:54.183 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
-10:38:54.308 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
-10:38:54.939 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
-10:38:55.012 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
-10:38:55.012 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
-10:38:57.297 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
-10:38:57.298 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
-10:38:57.339 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
-10:38:57.339 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
-10:39:03.104 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
-10:39:03.248 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
-10:39:03.631 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
-10:39:03.774 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
-10:39:03.865 [main] INFO  testCases.TC_002_LogInTest - Entering Password
-10:39:05.041 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
-10:39:05.041 [main] INFO  testCases.TC_002_LogInTest - verifying msg
-10:39:05.081 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
-10:39:05.761 [main] INFO  testCases.TC_002_LogInTest - clicked on LogOut link
-10:39:05.761 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
-10:53:02.721 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Starting Tc_001_HomePageAndAccRgistrationTest ***
-10:53:02.827 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
-10:53:02.907 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
-10:53:03.536 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
-10:53:03.587 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
-10:53:03.596 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
-10:53:05.772 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
-10:53:05.773 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
-10:53:05.811 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
-10:53:05.811 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
-10:53:10.783 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
-10:53:10.891 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
-10:53:11.290 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
-10:53:11.454 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
-10:53:11.536 [main] INFO  testCases.TC_002_LogInTest - Entering Password
-10:53:12.244 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
-10:53:12.246 [main] INFO  testCases.TC_002_LogInTest - verifying msg
-10:53:12.283 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
-10:53:12.889 [main] INFO  testCases.TC_002_LogInTest - clicked on LogOut link
-10:53:12.889 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
+19:16:09.632 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Checked Logo presence
+19:16:09.742 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On MyAccount Link
+19:16:10.416 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On Registration Link
+19:16:10.489 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Successfully Opened Registration Page
+19:16:10.489 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Entering Customer Details
+19:16:11.830 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Clicked On the Continue Button
+19:16:11.830 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Validating Expected Message
+19:16:11.880 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - Test Passed
+19:16:11.880 [main] INFO  testCases.Tc_001_HomePageAndAccRgistrationTest - *** Ended Tc_001_HomePageAndAccRgistrationTest ***
+19:16:16.974 [main] INFO  testCases.TC_002_LogInTest - ***Starting LogInTest***
+19:16:17.170 [main] INFO  testCases.TC_002_LogInTest - Clicked on MyAccount Link
+19:16:17.566 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Link On HOmePage
+19:16:17.753 [main] INFO  testCases.TC_002_LogInTest - Entering Email Address
+19:16:17.848 [main] INFO  testCases.TC_002_LogInTest - Entering Password
+19:16:18.751 [main] INFO  testCases.TC_002_LogInTest - Clicked on LogIn Button
+19:16:18.752 [main] INFO  testCases.TC_002_LogInTest - verifying msg
+19:16:18.791 [main] INFO  testCases.TC_002_LogInTest - Login Test Passed
+19:16:19.347 [main] INFO  testCases.TC_002_LogInTest - clicked on Logout link
+19:16:19.347 [main] INFO  testCases.TC_002_LogInTest - Ended TC_002_LogInTest
+19:16:23.194 [main] INFO  testCases.TC_004_ForgetPassword - *** Starting TC_004_ForgetPassword ***
+19:16:23.299 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on MyAccount Link
+19:16:23.659 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on Login Link
+19:16:24.018 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on ForgetPassword Link
+19:16:24.222 [main] INFO  testCases.TC_004_ForgetPassword - Entered Email
+19:16:25.133 [main] INFO  testCases.TC_004_ForgetPassword - Clicked on Continue button
+19:16:25.133 [main] INFO  testCases.TC_004_ForgetPassword - Validating Expected Message
+19:16:25.182 [main] INFO  testCases.TC_004_ForgetPassword - Test Passed
+19:16:25.182 [main] INFO  testCases.TC_004_ForgetPassword - *** Ended TC_004_ForgetPassword ***
+19:16:29.055 [main] INFO  testCases.TC_005_SearchFunctionality - *** Starting TC_004_ForgetPassword ***
+19:16:29.260 [main] INFO  testCases.TC_005_SearchFunctionality - Entering product name
+19:16:29.917 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on searchbutton
+19:16:29.984 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on checkBox
+19:16:30.516 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on searchbutton2
+19:16:30.571 [main] INFO  testCases.TC_005_SearchFunctionality - Clicked on Add to Cart button
+19:16:30.571 [main] INFO  testCases.TC_005_SearchFunctionality - *** Ended TC_005_SearchFunctionality ***
+19:16:34.192 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - *** Starting TC_006_EmptyShoppinCartTest ***
+19:16:34.716 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Clicked on ShoppingCart Link
+19:16:34.716 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Validating Expected Message
+19:16:34.765 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - Test Passed
+19:16:34.765 [main] INFO  testCases.TC_006_EmptyShoppinCartTest - *** Ended TC_006_EmptyShoppinCartTest ***
+19:16:38.588 [main] INFO  testCases.TC_007_ShoppingCartTest - *** Starting TC_007_ShoppingCartTest ***
+19:16:38.780 [main] INFO  testCases.TC_007_ShoppingCartTest - Entering product name
+19:16:39.328 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on searchbutton
+19:16:39.408 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on checkBox
+19:16:39.947 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on searchbutton2
+19:16:40.037 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on Add to Cart button
+19:16:40.037 [main] INFO  testCases.TC_007_ShoppingCartTest - Validating Expected Message
+19:16:40.578 [main] INFO  testCases.TC_007_ShoppingCartTest - Clicked on ShoppingCart Link
+19:16:40.578 [main] INFO  testCases.TC_007_ShoppingCartTest - Validating Expected productresult
+19:16:40.614 [main] INFO  testCases.TC_007_ShoppingCartTest - Test Passed
+19:16:40.614 [main] INFO  testCases.TC_007_ShoppingCartTest - *** Ended TC_006_EmptyShoppinCartTest ***

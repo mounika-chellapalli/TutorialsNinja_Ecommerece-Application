@@ -14,8 +14,9 @@
     
     <classes>
     	<!-- <class name="testCases.Tc_001_HomePageAndAccRgistrationTest"/> 
-        <class name="testCases.TC_002_LogInTest"/> -->
-        <class name="testCases.TC_003_LoginDDT"/> 
+        <class name="testCases.TC_002_LogInTest"/>  -->
+		  <class name="testCases.TC_003_LoginDDT"/>       
+		  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
