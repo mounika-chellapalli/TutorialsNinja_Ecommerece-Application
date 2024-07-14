@@ -1,9 +1,4 @@
 **Name:** Mounika Chellapalli
-**Company:** CODTECH IT SOLUTIONS
-**ID:**
-**Domain:**
-**Duration:**
-**Mentor:**
 
 ## Overview of the Project
 ## Project: Automation Testing On TutorialsNinja - E-Commerece Application
