@@ -1,7 +1,7 @@
 **Name:** Mounika Chellapalli
 
 ## Overview of the Project
-## Project: Automation Testing On TutorialsNinja - E-Commerece Application
+## Project: Automation Testing On TutorialsNinja - E-Commerce Application
 
 ### Objective
 The primary objective of this project is to develop and implement automated tests to ensure the functionality, reliability, and performance of the TutorialsNinja.com e-commerce application. The focus is on validating key aspects of the application, such as the home page, registration page, login functionality, password recovery, search functionality, and add-to-cart functionality. The goal is to identify and resolve any issues or bugs to enhance the user experience and ensure seamless operation of the application.
